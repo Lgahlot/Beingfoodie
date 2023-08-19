@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="CART"
+            android:id="@+id/cart"/>
+    <item android:title="Reach Us"
+    android:id="@+id/i1">
+    <menu>
+       <item android:title="Anubhav"
+           android:id="@+id/i11">
+       </item>
+        <item android:title="Basant"
+            android:id="@+id/i12">
+        </item>
+        <item android:title="Lakshay"
+            android:id="@+id/i13">
+        </item>
+    </menu>
+
+</item>
+
+    <item android:title="your orders"
+        android:id="@+id/yo"/>
+    <item android:title="Log Out"
+        android:id="@+id/i2">
+    </item>
+
+</menu>
